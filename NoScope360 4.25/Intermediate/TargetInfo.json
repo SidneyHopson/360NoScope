@@ -1,0 +1,19 @@
+{
+	"Targets": [
+		{
+			"Name": "NoScope360",
+			"Path": "D:\\GameDev\\Project Files\\NoScope360 4.25\\Source\\NoScope360.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NoScope360Editor",
+			"Path": "D:\\GameDev\\Project Files\\NoScope360 4.25\\Source\\NoScope360Editor.Target.cs",
+			"Type": "Editor"
+		},
+		{
+			"Name": "NoScope360Server",
+			"Path": "D:\\GameDev\\Project Files\\NoScope360 4.25\\Source\\NoScope360Server.Target.cs",
+			"Type": "Server"
+		}
+	]
+}

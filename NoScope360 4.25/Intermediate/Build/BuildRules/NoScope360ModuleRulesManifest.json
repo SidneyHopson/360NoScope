@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"D:\\GameDev\\Project Files\\NoScope360 4.25\\Source\\NoScope360\\NoScope360.Build.cs",
+		"D:\\GameDev\\Project Files\\NoScope360 4.25\\Source\\NoScope360.Target.cs",
+		"D:\\GameDev\\Project Files\\NoScope360 4.25\\Source\\NoScope360Editor.Target.cs",
+		"D:\\GameDev\\Project Files\\NoScope360 4.25\\Source\\NoScope360Server.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

@@ -1,0 +1,2 @@
+D:\GameDev\Project Files\NoScope360 4.25\Intermediate\Build\Win64\UE4Editor\Development\NoScope360\Definitions.NoScope360.h
+D:\GameDev\Project Files\NoScope360 4.25\Source\NoScope360\NoScope360.h

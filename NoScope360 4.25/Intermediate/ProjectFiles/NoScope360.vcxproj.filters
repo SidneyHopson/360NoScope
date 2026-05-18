@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\NoScope360.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{62F2D10F-68DD-4699-8953-99388B46F7FE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NoScope360.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\NoScope360Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\NoScope360Server.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{83A2D416-8953-4F97-922E-27D9B20C74D0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\NoScope360">
+      <UniqueIdentifier>{E15489C4-82A8-4225-ABEE-97C8DD3020BF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NoScope360\MyClass.cpp">
+      <Filter>Source\NoScope360</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NoScope360\MyClass.h">
+      <Filter>Source\NoScope360</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\NoScope360\NoScope360.Build.cs">
+      <Filter>Source\NoScope360</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\NoScope360\NoScope360.cpp">
+      <Filter>Source\NoScope360</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NoScope360\NoScope360.h">
+      <Filter>Source\NoScope360</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

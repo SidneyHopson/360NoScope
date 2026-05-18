@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-NoScope360.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GameDev\Project Files\NoScope360 4.25\Intermediate\Build\Win64\NoScope360Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\GameDev\Project Files\NoScope360 4.25\Intermediate\Build\Win64\UE4Editor\Development\NoScope360\MyClass.cpp.obj"
+"D:\GameDev\Project Files\NoScope360 4.25\Intermediate\Build\Win64\UE4Editor\Development\NoScope360\NoScope360.cpp.obj"
+"D:\GameDev\Project Files\NoScope360 4.25\Intermediate\Build\Win64\UE4Editor\Development\NoScope360\Default.rc2.res"
+/OUT:"D:\GameDev\Project Files\NoScope360 4.25\Intermediate\Build\Win64\UE4Editor\Development\NoScope360\UE4Editor-NoScope360.lib"
+/INCLUDE:IMPLEMENT_MODULE_NoScope360
